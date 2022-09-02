@@ -1,0 +1,12 @@
+{
+  "name": "playwright-gh-actions-gh-pages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ysfaran/playwright-gh-actions-gh-pages.git",
+  "author": "Yusuf Aran <yusuf.aran@sellwerk.de>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.25.1"
+  },
+  "scripts": {}
+}
